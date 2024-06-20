@@ -23,6 +23,7 @@ public class BodyMassIndexCalculator {
 
 	System.out.printf("Body Mass Index is %.2f%n", bodyMass);
 
+ 
     }
 
 }
