@@ -31,6 +31,7 @@ public class ComparingIntegers {
 	System.out.printf("The sum and square of the number you entered which is %.0f %s %n", getSum, "is less than 100");
 	}
 
+
     }
 
 }
