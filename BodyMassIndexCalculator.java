@@ -1,6 +1,7 @@
 //Question 2.33
 
 
+
 import java.util.Scanner;
 
 public class BodyMassIndexCalculator {
@@ -23,7 +24,7 @@ public class BodyMassIndexCalculator {
 
 	System.out.printf("Body Mass Index is %.2f%n", bodyMass);
 
- 
+
     }
 
 }
