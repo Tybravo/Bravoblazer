@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArrayPractice{
+public class ArrayPracticeOne{
 
 	public static void main(String[] args){
 
@@ -9,7 +9,7 @@ public class ArrayPractice{
 	
 
 		
-	System.out.print("Enter number of collection");
+	System.out.print("Enter number of collection: ");
 	int setOfNumbers = scanner.nextInt();
 
 	int[] numbers = new int[setOfNumbers];

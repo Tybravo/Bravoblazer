@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class PrintMultiplesFourOneToTen {
+public class Task4PrintMultiplesFourBtwOneToTen {
 
 	public static void main(String[] args){
 

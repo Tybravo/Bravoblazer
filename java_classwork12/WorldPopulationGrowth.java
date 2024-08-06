@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class WorldPopulationGrowth{
+
+	public static void main(String[] args){
+	Scanner scanner = new Scanner(System.in);
+
+
+
+
+    }
+
+}

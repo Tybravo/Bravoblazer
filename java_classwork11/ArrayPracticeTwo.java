@@ -5,8 +5,8 @@ public class ArrayPracticeTwo{
 
 	public static void main(String[] args){
 
-	int[ ] numbers = {10, 20, 30, 40, 50}; //static initialization method
-	int[ ] scores = new int [5]; //using the array constructor
+	int[] numbers = {10, 20, 30, 40, 50}; //static initialization method
+	int[] scores = new int [5]; //using the array constructor
 
 	int number = numbers [2];
 

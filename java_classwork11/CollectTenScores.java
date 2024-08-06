@@ -1,24 +1,24 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArrayPracticeThree{
+public class CollectTenScores{
 
 	public static void main(String[] args){
 	Scanner scanner = new Scanner(System.in);
 	
 
 	int entryScore = 0;
-
-	for(int count = 1; count <= 10;){
-	count++;
-
-	System.out.println("Enter score: ");
-	entryScore = scanner.nextInt();
-
-	System.out.print(+entryScore);
-	}
-	System.out.printf("All Scores: %d %d", +entryScore,);
+	String isEntryScore = "";
 	
+	for(int count = 1; count <= 10; count++){
+	
+	System.out.print("Enter score " +count+ ": ");
+	entryScore = scanner.nextInt();
+	isEntryScore += entryScore + " ";
+	}
+	
+	System.out.printf("All Scores are %s", isEntryScore);
+		
 	
 
    }

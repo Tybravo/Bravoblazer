@@ -13,7 +13,7 @@ public class Task4CollectTenScoresSumEvenIndexesScores {
 	int isIndex = 0;
 	for(int getNum = 1; getNum <= 10; getNum++){
 
-	System.out.print("Enter ten scosre and sum up even indexes: ");
+	System.out.print("Enter ten scores and sum up even indexes: ");
 	int isNum = input.nextInt();
 	
 	if(getNum % 2 == 0){
